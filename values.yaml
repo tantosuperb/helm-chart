@@ -1,0 +1,11 @@
+favorite:
+  drink: coffeeV3
+  food: pizzaV3
+
+test1: "pipeline test1 value!"
+test2: "pipeline test2 value!"
+test3: "pipeline test3 value!"
+test4: "pipeline test4 value!"
+test5: "pipeline test5 value!"
+test6: "pipeline test6 value!"
+test7: "pipeline test7 value!"
